@@ -1,7 +1,8 @@
-[![MasterHead](https://tenor.com/view/data-analysis-graph-chart-gif-23151718)](https://pratik951.io)
+[![MasterHead](https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif)](https://pratik951.io)
+
 <h1 align="center">Hi 👋, I'm Pratik Koli</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FwhgQwNlVvNkAAAAj%2Fxero-code.gif&tbnid=sVKKE35BHJlYmM&vet=12ahUKEwj97ezL5v7-AhXwTUEAHQzmAtwQMygTegUIARDIAg..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&docid=wC1y6bJ6OPI5TM&w=200&h=166&q=animated%20coding%20gif&ved=2ahUKEwj97ezL5v7-AhXwTUEAHQzmAtwQMygTegUIARDIAg">
+<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik951&label=Profile%20views&color=0e75b6&style=flat" alt="pratik951" /> </p>
 
