@@ -1,4 +1,4 @@
-[![MasterHead](https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif)](https://pratik951.io)
+[![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)](https://pratik951.io)
 
 <h1 align="center">Hi 👋, I'm Pratik Koli</h1>
 <h3 align="center">A passionate Data Analyst</h3>
