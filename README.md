@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pratik-koli-714a3418b/](https://www.linkedin.com/in/pratik-koli-714a3418b/)
 
-- 💬 Ask me about **Python, C/C++, R, Java**
+- 💬 Ask me about **Python, SQL, R, Java**
 
 - 📫 How to reach me **pratikkoli951@gmail.com**
 
