@@ -1,7 +1,7 @@
 [![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)](https://pratik951.io)
 
 <h1 align="center">Hi 👋, I'm Pratik Koli</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik951&label=Profile%20views&color=0e75b6&style=flat" alt="pratik951" /> </p>
